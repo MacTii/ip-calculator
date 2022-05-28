@@ -1,5 +1,3 @@
-Autor: Mateusz Kapka
-
 Użytkownik podaje w terminalu adres IPv4 z maska np. 192.168.0.1/24
 
 Na wyjściu otrzymuje:
